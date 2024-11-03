@@ -5,7 +5,11 @@ This is a project built using the MERN stack, mostly: React.js, MongoDB, Node.js
 It authenticates using JsonWebTokens JWT. React Query to fetch Data and caching.
 It has the ability to authenticate, create new users, register follows, create posts, delete, like, suggest users to follow, edit profile info, edit cover and profile images, send notifications, and much more.
 
-Unfortunately, I'm still not too versed with the whole topic of deployment and so I can't really offer a live demo, however, I will be adding some screens for clarity.
+Unfortunately, I'm still not too versed with the whole topic of deployment and so I can't really offer a live demo, however, I will be adding a YouTube video and some screens for clarity.
+
+## 🎥 YouTube video showing the demo:
+
+<a href="https://www.youtube.com/watch?v=K_7-dIgpqYw" target="_blank" rel="noopener noreferrer">Watch the video on YouTube</a>
 
 ## 📸 Screenshots
 ![Home](https://github.com/user-attachments/assets/ccf889a3-84e3-4e98-be5a-4bebb4c131b8)
