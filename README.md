@@ -1,4 +1,4 @@
-"# Twitter-Clone"
+"# Twitter/X Clone"
 
 This is a project built using the MERN stack, mostly: React.js, MongoDB, Node.js, Express, and Tailwind.
 
